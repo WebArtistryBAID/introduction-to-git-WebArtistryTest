@@ -1,7 +1,5 @@
 # WebArtistry Learning: Introduction to Git
 
-HELLO! HI!
-
 Welcome to WebArtistry!
 
 WebArtistry Learning is an integrated course for elementary web development and programming. Assuming only basic computer knowledge, this one year course teaches the basic ideas of computer science and web development in a friendly and easy-to-approach manner.
